@@ -1,0 +1,22 @@
+PROJECT DEPENDENCY 
+
+expo init project_name
+
+npm install @react-navigation/native
+npm install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+npm install @react-navigation/stack
+npm install react-native
+npm install react-native-vector-icons
+
+npm install firebase
+npm install react-redux
+npm install react-thunk
+npm install @react-navigation/drawer
+npm install @react-navigation/material-bottom-tabs react-native-paper react-native-vector-icons
+npm install expo-image-picker
+npm install @react-navigation/material-top-tabs react-native-tab-view@^2.16.0
+npm install react-native-image-resizer
+
+npm install expo-linear-gradient
+npm install react-native-openanything
+npm install react-native-elements
